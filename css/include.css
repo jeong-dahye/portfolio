@@ -55,7 +55,7 @@
     font-family:"NotoSans",sans-serif;
 }
 .fInfo{
-    background:url(../images/common/fBg.png) no-repeat left bottom;
+    background:url(../images/common/fBg.png) no-repeat center top;
     background-size:cover;
     padding-top:110px;
     padding-bottom:50px;
@@ -63,7 +63,7 @@
     position:absolute;
     top:-150px;
     text-align:center;
-    line-height:50px;
+    line-height:40px;
 }
 .fInfo h2{
     font-size:50px;

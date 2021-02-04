@@ -1,4 +1,12 @@
-/*야놀자*/
+/*개미똥구멍체*/
+@font-face {
+    font-family: 'SangSangAnt';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_three@1.0/SangSangAnt.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*야놀자체*/
 @font-face {
     font-family: 'YanoljaYacheR';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/YanoljaYacheR.woff') format('woff');
@@ -6,7 +14,7 @@
     font-style: normal;
 }
 
-/*여기어때*/
+/*여기어때체*/
 @font-face {
     font-family: 'yg-jalnan';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.2/JalnanOTF00.woff') format('woff');

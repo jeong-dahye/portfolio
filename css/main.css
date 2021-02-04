@@ -32,7 +32,7 @@
 .portfolioTxt{
     position:absolute;
     right:50%;
-    margin-right:-600px;
+    margin-right:-480px;
     bottom:320px;
     z-index:1;
 }
@@ -44,7 +44,19 @@
 .portfolioTxt h2{
     margin-bottom:20px;
     margin-left:50px;
-    font-size:30px;
+    font-family:"SangSangAnt",serif;
+    font-size:50px;
+    line-height:50px;
+    text-align:center;
+}
+.portfolioTxt h2 span{
+    display:block;
+    font-size:80px;
+    line-height:70px;
+    transition:color 0.2s;
+}
+.portfolioTxt:hover span{
+    color:#96B4FA;
 }
 .mainSlider h4{
     position:absolute;
@@ -62,9 +74,13 @@
     display:block;
     width:100%;
 }
+.clickBtn:hover h4{
+    
+}
 .clickBtn h4{
     background:url(../images/main/txtDc.png) no-repeat right center;
-    padding:20px 0;
+    padding:20px 0px;
+    padding-right:20px;
     
 }
 
